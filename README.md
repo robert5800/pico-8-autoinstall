@@ -11,5 +11,4 @@ A simple shell script for installing [PICO-8](https://www.lexaloffle.com/pico-8.
     wget https://raw.githubusercontent.com/robert5800/pico-8-autoinstall/main/install
     chmod +x install
     ./install
-``` 
 5. Done! Note: this is a work in progress, so please report any errors you encounter.
