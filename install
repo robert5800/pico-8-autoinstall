@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "PICO-8 installation script"
+mv pico-8/ ~/.local/share/ && \
+cp ~/.local/share/pico-8/pico8 ~/.local/share/pico-8/pico8.dat ~/.local/bin/ 
+echo "[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=Pico-8
+Comment=PICO-8 fantasy console
+Exec=pico8 
+Icon=$HOME/.local/share/pico-8/pico8.png
+Terminal=false
+Categories=Programming;Games;" > ~/.local/share/applications/Pico-8.desktop && echo Success!
+exit
