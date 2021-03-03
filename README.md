@@ -2,6 +2,12 @@
 
 A simple shell script for installing [PICO-8](https://www.lexaloffle.com/pico-8.php) so it's accessible from your application launcher and terminal. 
 
+## FAQ
+
+> What is PICO-8?
+
+PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in Lua commands and provides simple built-in tools for creating your own cartridges.
+
 ## How to use this script
 
 1. Buy a copy of PICO-8 [here](https://www.lexaloffle.com/pico-8.php)
