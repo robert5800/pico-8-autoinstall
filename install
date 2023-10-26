@@ -10,7 +10,7 @@ Encoding=UTF-8
 Name=Pico-8
 Comment=PICO-8 fantasy console
 Exec=pico8 
-Icon=$HOME/.local/share/pico-8/pico8.png
+Icon=$HOME/.local/share/pico-8/lexaloffle-pico8.png
 Terminal=false
 Categories=Programming;Games;" > ~/.local/share/applications/Pico-8.desktop && echo Success!
 exit
